@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"PhysicalObjectTracker": "UE4Editor-PhysicalObjectTracker-0001.dll",
+		"PhysicalObjectTrackerEditor": "UE4Editor-PhysicalObjectTrackerEditor-0001.dll"
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CradleLightControl-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Intermediate\Build\Win64\VPTemplateEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\DebugGame\CradleLightControl\Module.CradleLightControl.cpp.obj"
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\DebugGame\CradleLightControl\Default.rc2.res"
+/OUT:"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\DebugGame\CradleLightControl\UE4Editor-CradleLightControl-Win64-DebugGame.lib"

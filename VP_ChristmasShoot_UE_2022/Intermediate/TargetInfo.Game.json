@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VPTemplate",
+			"Path": "C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Source\\VPTemplate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VPTemplateEditor",
+			"Path": "C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Source\\VPTemplateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

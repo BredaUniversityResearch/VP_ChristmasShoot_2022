@@ -1,0 +1,80 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Projects\VP_christmasshoot_2022).
+  Creating makefile for VPTemplateEditor (no existing makefile)
+  Parsing headers for VPTemplateEditor
+    Running UnrealHeaderTool "C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\ChristmasShoot_2022.uproject" "C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\VPTemplateEditor\Development\VPTemplateEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\CRADLE\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for VPTemplateEditor in 8,5099857 seconds
+  Building VPTemplateEditor...
+  Using Visual Studio 2022 14.31.31105 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 54 actions with 32 processes...
+    [1/54] Default.rc2
+    [2/54] Default.rc2
+    [3/54] Default.rc2
+    [4/54] Default.rc2
+    [5/54] Default.rc2
+    [6/54] Default.rc2
+    [7/54] SharedPCH.UnrealEd.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [8/54] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [9/54] DummyClass.cpp
+    [10/54] VPTemplate.cpp
+    [11/54] Module.PhysicalObjectTrackerEditor.cpp
+    [12/54] UE4Editor-VPTemplate-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\UE4Editor\Development\VPTemplate\UE4Editor-VPTemplate-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\UE4Editor\Development\VPTemplate\UE4Editor-VPTemplate-0001.exp
+    [13/54] UE4Editor-PhysicalObjectTrackerEditor-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\UE4Editor-PhysicalObjectTrackerEditor-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\UE4Editor-PhysicalObjectTrackerEditor-0001.exp
+    [14/54] SharedPCH.Engine.ShadowErrors.Cpp17.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [15/54] Module.PhysicalObjectTracker.gen.cpp
+    [16/54] UE4Editor-VPTemplate-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\UE4Editor\Development\VPTemplate\UE4Editor-VPTemplate-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\UE4Editor\Development\VPTemplate\UE4Editor-VPTemplate-0001.suppressed.exp
+    [17/54] BMCCBlueprintSupport.cpp
+    [18/54] BMCCDispatcher.cpp
+    [19/54] BlackmagicCameraControl.init.gen.cpp
+    [20/54] BlackmagicCineCameraSyncComponent.gen.cpp
+    [21/54] BMCCForegroundThreadCallbackHandler.cpp
+    [22/54] BMCCBlueprintSupport.gen.cpp
+    [23/54] BMCCFixed16.cpp
+    [24/54] BlackmagicCineCameraSyncComponent.cpp
+    [25/54] BMCCBattery_Info.gen.cpp
+    [26/54] BMCCMedia_TransportMode.gen.cpp
+    [27/54] BMCCCallbackHandler.gen.cpp
+    [28/54] BlackmagicCameraControl.cpp
+    [29/54] BMCCCommandPayload.gen.cpp
+    [30/54] BMCCService.cpp
+    [31/54] BMCCDispatcher.gen.cpp
+    [32/54] BMCCVendorSpecific.gen.cpp
+    [33/54] BMCCCommandMeta.cpp
+    [34/54] BMCCFixed16.gen.cpp
+    [35/54] BMCCVideo.gen.cpp
+    [36/54] Module.PhysicalObjectTracker.cpp
+    [37/54] UE4Editor-PhysicalObjectTracker-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTracker\UE4Editor-PhysicalObjectTracker-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTracker\UE4Editor-PhysicalObjectTracker-0001.exp
+    [38/54] BMCCLens.gen.cpp
+    [39/54] Module.CradleLightControl.gen.cpp
+    [40/54] UE4Editor-PhysicalObjectTrackerEditor-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\UE4Editor-PhysicalObjectTrackerEditor-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\UE4Editor-PhysicalObjectTrackerEditor-0001.suppressed.exp
+    [41/54] UE4Editor-PhysicalObjectTracker-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTracker\UE4Editor-PhysicalObjectTracker-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTracker\UE4Editor-PhysicalObjectTracker-0001.suppressed.exp
+    [42/54] Module.CradleLightControl.cpp
+    [43/54] UE4Editor-CradleLightControl-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControl\UE4Editor-CradleLightControl-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControl\UE4Editor-CradleLightControl-0001.exp
+    [44/54] UE4Editor-CradleLightControl-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControl\UE4Editor-CradleLightControl-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControl\UE4Editor-CradleLightControl-0001.suppressed.exp
+    [45/54] Module.CradleLightControlEditor.gen.cpp
+    [46/54] AsyncWrapper.cpp
+    [47/54] BluetoothDeviceConnection.cpp
+    [48/54] BluetoothService.cpp
+    [49/54] UE4Editor-BlackmagicCameraControl-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\UE4Editor-BlackmagicCameraControl-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\UE4Editor-BlackmagicCameraControl-0001.exp
+    [50/54] UE4Editor-BlackmagicCameraControl-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\UE4Editor-BlackmagicCameraControl-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\UE4Editor-BlackmagicCameraControl-0001.suppressed.exp
+    [51/54] Module.CradleLightControlEditor.cpp
+    [52/54] UE4Editor-CradleLightControlEditor-0001.lib
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor-0001.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor-0001.exp
+    [53/54] UE4Editor-CradleLightControlEditor-0001.dll
+       Creating library C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor-0001.suppressed.lib and object C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor-0001.suppressed.exp
+    [54/54] VPTemplateEditor.target
+  Total time in Parallel executor: 38,38 seconds
+  Total execution time: 51,04 seconds

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CradleLightControlEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Intermediate\Build\Win64\VPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Module.CradleLightControlEditor.cpp.obj"
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Module.CradleLightControlEditor.gen.cpp.obj"
+"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Default.rc2.res"
+/OUT:"C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor.lib"

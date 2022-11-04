@@ -1,0 +1,338 @@
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\DebugGame\BlackmagicCameraControl\Definitions.BlackmagicCameraControl.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\AsyncWrapper.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BlackmagicCameraControl.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCService.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDataReceivedHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDeviceHandle.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDispatcher.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCallbackHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCLens.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandPayload.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCCommandPayload.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandIdentifier.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCFixed16.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCFixed16.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCLens.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVendorSpecific.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCVendorSpecific.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVideo.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCVideo.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCCallbackHandler.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCBattery_Info.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCBattery_Info.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCForegroundThreadCallbackHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandHeader.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCMedia_TransportMode.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCMedia_TransportMode.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCDispatcher.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\WinRT.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt\hstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Foundation.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/base.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\algorithm
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\array
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\charconv
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xbit_ops.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xcharconv.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xcharconv_ryu.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xcharconv_ryu_tables.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\chrono
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\ratio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\map
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xtree
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xnode_handle.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xpolymorphic_allocator.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\optional
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xsmf_control.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\shared_mutex
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\mutex
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\vcruntime_startup.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\condition_variable
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\string_view
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\unordered_map
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xhash
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\vector
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\experimental/coroutine
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\directxmath.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\DirectXMathConvert.inl
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\DirectXMathVector.inl
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\DirectXMathMatrix.inl
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\DirectXMathMisc.inl
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\WindowsNumerics.impl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\WindowsNumerics.inl
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.Collections.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.Collections.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.Collections.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Foundation.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Foundation.Collections.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Devices.Bluetooth.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Devices.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Adc.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Adc.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Adc.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Gpio.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Gpio.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Gpio.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.I2c.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.I2c.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.I2c.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Pwm.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Pwm.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Pwm.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Spi.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Spi.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Spi.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.GenericAttributeProfile.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.GenericAttributeProfile.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.GenericAttributeProfile.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Rfcomm.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Rfcomm.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Rfcomm.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Enumeration.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Streams.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Streams.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Enumeration.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Enumeration.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Radios.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Radios.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Radios.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Networking.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Networking.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Networking.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Streams.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.System.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.System.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Devices.Bluetooth.Advertisement.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Advertisement.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Advertisement.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Advertisement.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Devices.Bluetooth.GenericAttributeProfile.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Devices.Enumeration.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.ApplicationModel.Background.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.ApplicationModel.Calls.Background.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.ApplicationModel.Calls.Background.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Background.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Bluetooth.Background.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Sensors.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Sensors.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.SmartCards.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.SmartCards.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Sms.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Sms.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.Notifications.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.Notifications.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.ApplicationModel.Background.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.ApplicationModel.Background.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Security.Credentials.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Security.Credentials.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Security.Credentials.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.Popups.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.Popups.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.UI.Popups.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Storage.Streams.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/Windows.Storage.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.FileProperties.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Geolocation.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Devices.Geolocation.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.FileProperties.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.FileProperties.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Provider.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Provider.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Provider.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Search.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Search.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.Search.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.System.2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.System.RemoteSystems.1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.System.RemoteSystems.0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt\winrt/impl/Windows.Storage.2.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

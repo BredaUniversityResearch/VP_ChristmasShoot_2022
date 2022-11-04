@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VPTemplate.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B17DC0E-8001-438A-826E-AF54EA6D480F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VPTemplate.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VPTemplateEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AC52D2F3-8435-475A-B09D-7A88F56F2B66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultLightmass.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultVirtualProductionUtilities.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{B591FB80-F905-4FFF-BCD0-EBA716AF58FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\hpmotioncontroller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_chest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_handed.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_keyboard.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_waist.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{2F2D0C90-4FAF-4BE3-B046-8A5457152295}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{7103B066-D44C-48D6-B53E-D3C5F33AB91D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BlackmagicCameraControl">
+      <UniqueIdentifier>{C769BF47-7025-47FF-BF39-82575950CF35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BlackmagicCameraControl\Source">
+      <UniqueIdentifier>{56B64185-CF78-40EC-831D-ACCDC4949BAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl">
+      <UniqueIdentifier>{163A373E-F99A-4378-A599-6F199406EAC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\BlackmagicCameraControl.Build.cs">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl</Filter>
+    </None>
+    <Filter Include="Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private">
+      <UniqueIdentifier>{8952124A-1D92-45C6-817C-693A2A636841}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\AsyncWrapper.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\AsyncWrapper.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BlackmagicBluetoothGUID.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BlackmagicCameraControl.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BlackmagicCineCameraSyncComponent.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BluetoothDeviceConnection.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BluetoothDeviceConnection.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BluetoothService.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BluetoothService.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCBlueprintSupport.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCCommandMeta.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCDispatcher.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCFixed16.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCForegroundThreadCallbackHandler.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCPacketHeader.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\BMCCService.cpp">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private\WinRT.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public">
+      <UniqueIdentifier>{689BF24A-7440-419F-A696-9C3AE0C0F38A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BlackmagicCameraControl.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BlackmagicCineCameraSyncComponent.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCBattery_Info.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCBlueprintSupport.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCallbackHandler.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandHeader.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandIdentifier.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandMeta.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandPayload.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDataReceivedHandler.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDeviceHandle.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDispatcher.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCFixed16.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCForegroundThreadCallbackHandler.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCLens.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCMedia_TransportMode.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCService.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVendorSpecific.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVideo.h">
+      <Filter>Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\BlackmagicCameraControl\BlackmagicCameraControl.uplugin">
+      <Filter>Plugins\BlackmagicCameraControl</Filter>
+    </None>
+    <Filter Include="Plugins\BlackmagicCameraControl\Config">
+      <UniqueIdentifier>{AB86EFE0-44FE-4E0C-A6E1-F3E9136CD35A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BlackmagicCameraControl\Config\FilterPlugin.ini">
+      <Filter>Plugins\BlackmagicCameraControl\Config</Filter>
+    </None>
+    <Filter Include="Plugins\CradleLightControl">
+      <UniqueIdentifier>{20396D12-AE3D-495A-85DF-69DD612FE114}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CradleLightControl\CradleLightControl.uplugin">
+      <Filter>Plugins\CradleLightControl</Filter>
+    </None>
+    <Filter Include="Plugins\PhysicalObjectTracker">
+      <UniqueIdentifier>{251301C3-A0CF-4B0C-A8B7-895A70D3A604}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PhysicalObjectTracker\PhysicalObjectTracker.uplugin">
+      <Filter>Plugins\PhysicalObjectTracker</Filter>
+    </None>
+    <Filter Include="Plugins\PhysicalObjectTracker\Config">
+      <UniqueIdentifier>{FAA8813E-D52C-432B-996B-D1B6476799DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PhysicalObjectTracker\Config\FilterPlugin.ini">
+      <Filter>Plugins\PhysicalObjectTracker\Config</Filter>
+    </None>
+    <Filter Include="Plugins\RemoteControlAutoExpose">
+      <UniqueIdentifier>{B071084C-FFAD-47F9-BED1-0C2C1C038FE2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RemoteControlAutoExpose\RemoteControlAutoExpose.uplugin">
+      <Filter>Plugins\RemoteControlAutoExpose</Filter>
+    </None>
+    <Filter Include="Plugins\CradleLightControl\Source">
+      <UniqueIdentifier>{40E55AC4-6A5E-4F3D-B1B2-6969DE7622D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControl">
+      <UniqueIdentifier>{183AD7E0-6E70-41AD-AACA-7DB533A8BAC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CradleLightControl\Source\CradleLightControl\CradleLightControl.Build.cs">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControl</Filter>
+    </None>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControl\Private">
+      <UniqueIdentifier>{1591EF78-093E-439C-8F3E-057ABF8FCF0B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CradleLightControl\Source\CradleLightControl\Private\CradleLightControl.cpp">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CradleLightControl\Source\CradleLightControl\Private\LightControlWebSocketServer.cpp">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControl\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CradleLightControl\Source\CradleLightControl\Private\LightControlWebSocketServer.h">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControl\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControl\Public">
+      <UniqueIdentifier>{1E7DD5BD-DE69-45D4-9390-9A72A90B3A66}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CradleLightControl\Source\CradleLightControl\Public\CradleLightControl.h">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControl\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControlEditor">
+      <UniqueIdentifier>{32DF2C4A-1C7B-4CBA-8917-8D1A989B4A6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CradleLightControl\Source\CradleLightControlEditor\CradleLightControlEditor.Build.cs">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControlEditor</Filter>
+    </None>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControlEditor\Private">
+      <UniqueIdentifier>{E4C1F743-BE84-4D88-9769-252C43F04540}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CradleLightControl\Source\CradleLightControlEditor\Private\CradleLightControlEditor.cpp">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControlEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CradleLightControl\Source\CradleLightControlEditor\Private\GelPaletteWidget.cpp">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControlEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CradleLightControl\Source\CradleLightControlEditor\Private\GelPaletteWidget.h">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControlEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CradleLightControl\Source\CradleLightControlEditor\Public">
+      <UniqueIdentifier>{9BFBABEB-F0B6-4553-A6A7-852293E2642E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CradleLightControl\Source\CradleLightControlEditor\Public\CradleLightControlEditor.h">
+      <Filter>Plugins\CradleLightControl\Source\CradleLightControlEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source">
+      <UniqueIdentifier>{13B67973-86E7-447E-9EDB-748F24E37CE0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker">
+      <UniqueIdentifier>{8B5F07D7-D4DC-4C12-8938-DA510107F22D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\PhysicalObjectTracker.Build.cs">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker</Filter>
+    </None>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private">
+      <UniqueIdentifier>{BF749FC4-EFFE-4AF3-820C-F0457174DFF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\PhysicalObjectTracker.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\PhysicalObjectTrackingComponent.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\PhysicalObjectTrackingFilterSettings.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\PhysicalObjectTrackingReferencePoint.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\PhysicalObjectTrackingUtility.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private\TrackerTransformHistory.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public">
+      <UniqueIdentifier>{8ADF31E2-E62B-4655-B0D8-F373C78D49A8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTracker.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingComponent.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingFilterSettings.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingReferencePoint.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingUtility.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\TrackerTransformHistory.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor">
+      <UniqueIdentifier>{A465C16C-4499-4DD8-B136-3B7E9C6238AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\PhysicalObjectTrackerEditor.Build.cs">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor</Filter>
+    </None>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private">
+      <UniqueIdentifier>{227A92CB-8895-4D2B-B8CA-CDA5B76E6143}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\DetectTrackerShakeTask.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\DetectTrackerShakeTask.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\GetTrackerStaticTransformTask.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\GetTrackerStaticTransformTask.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackerEditor.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingComponentVisualizer.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingComponentVisualizer.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingReferenceCalibrationHandler.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingReferenceCalibrationHandler.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\UpdateTrackerCalibrationAsset.cpp">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\UpdateTrackerCalibrationAsset.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Public">
+      <UniqueIdentifier>{1D4402CF-26EF-46FB-AA39-45029DA64211}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Public\PhysicalObjectTrackerEditor.h">
+      <Filter>Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\RemoteControlAutoExpose\Source">
+      <UniqueIdentifier>{61F4BF1D-B643-4FF9-B7EE-18BDCEB279E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose">
+      <UniqueIdentifier>{8D708FCB-7E41-449F-880E-344AE6AB32F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\RemoteControlAutoExpose.Build.cs">
+      <Filter>Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose</Filter>
+    </None>
+    <Filter Include="Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Private">
+      <UniqueIdentifier>{D24FCDCB-A4B4-4A61-8780-4D9DF25F61FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Private\RemoteControlAssetActionExtension.cpp">
+      <Filter>Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Private\RemoteControlAutoExposeModule.cpp">
+      <Filter>Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Public">
+      <UniqueIdentifier>{D5B5353B-134E-420A-9513-BFA6E0917FF5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Public\RemoteControlAssetActionExtension.h">
+      <Filter>Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Public\RemoteControlAutoExposeModule.h">
+      <Filter>Plugins\RemoteControlAutoExpose\Source\RemoteControlAutoExpose\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\VPTemplate">
+      <UniqueIdentifier>{6BDCE3F1-5EDF-4AB4-B659-D6C8B3AB0836}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VPTemplate\DummyClass.cpp">
+      <Filter>Source\VPTemplate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VPTemplate\DummyClass.h">
+      <Filter>Source\VPTemplate</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VPTemplate\VPTemplate.Build.cs">
+      <Filter>Source\VPTemplate</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VPTemplate\VPTemplate.cpp">
+      <Filter>Source\VPTemplate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VPTemplate\VPTemplate.h">
+      <Filter>Source\VPTemplate</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

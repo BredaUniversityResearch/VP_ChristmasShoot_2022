@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Source\\VPTemplate\\VPTemplate.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\BlackmagicCameraControl\\Source\\BlackmagicCameraControl\\BlackmagicCameraControl.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\CradleLightControl\\Source\\CradleLightControl\\CradleLightControl.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\CradleLightControl\\Source\\CradleLightControlEditor\\CradleLightControlEditor.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\PhysicalObjectTracker\\Source\\PhysicalObjectTracker\\PhysicalObjectTracker.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\PhysicalObjectTracker\\Source\\PhysicalObjectTrackerEditor\\PhysicalObjectTrackerEditor.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Plugins\\RemoteControlAutoExpose\\Source\\RemoteControlAutoExpose\\RemoteControlAutoExpose.Build.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Source\\VPTemplate.Target.cs",
+		"C:\\Projects\\Virtual-Productions-Template\\VPTemplate\\Source\\VPTemplateEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

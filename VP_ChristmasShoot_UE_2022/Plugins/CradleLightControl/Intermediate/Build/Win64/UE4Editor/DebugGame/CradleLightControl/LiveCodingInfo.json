@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CradleLightControl.cpp.obj": [
+			"CradleLightControl.cpp.obj",
+			"LightControlWebSocketServer.cpp.obj"
+		]
+	}
+}

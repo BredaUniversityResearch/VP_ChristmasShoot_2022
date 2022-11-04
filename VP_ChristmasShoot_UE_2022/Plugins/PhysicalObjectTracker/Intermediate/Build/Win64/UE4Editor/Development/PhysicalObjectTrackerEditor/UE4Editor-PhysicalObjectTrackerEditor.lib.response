@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PhysicalObjectTrackerEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\VPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\Module.PhysicalObjectTrackerEditor.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\Default.rc2.res"
+/OUT:"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\UE4Editor-PhysicalObjectTrackerEditor.lib"

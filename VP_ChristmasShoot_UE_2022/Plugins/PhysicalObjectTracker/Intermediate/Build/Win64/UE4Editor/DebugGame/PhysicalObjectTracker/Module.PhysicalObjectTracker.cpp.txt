@@ -1,0 +1,57 @@
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\DebugGame\PhysicalObjectTracker\Definitions.PhysicalObjectTracker.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/PhysicalObjectTracker.cpp
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Intermediate\Build\Win64\UE4Editor\Inc\SteamVR\SteamVRFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingReferencePoint.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Inc\PhysicalObjectTracker\PhysicalObjectTrackingReferencePoint.generated.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/PhysicalObjectTrackingComponent.cpp
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingComponent.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\TrackerTransformHistory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/RingBuffer.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Inc\PhysicalObjectTracker\PhysicalObjectTrackingComponent.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingUtility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVRInputDevice\Public\SteamVRInputDeviceFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Intermediate\Build\Win64\UE4Editor\Inc\SteamVRInputDevice\SteamVRInputDeviceFunctionLibrary.generated.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/PhysicalObjectTrackingFilterSettings.cpp
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingFilterSettings.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Inc\PhysicalObjectTracker\PhysicalObjectTrackingFilterSettings.generated.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/PhysicalObjectTrackingReferencePoint.cpp
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/PhysicalObjectTrackingUtility.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTracker/Private/TrackerTransformHistory.cpp

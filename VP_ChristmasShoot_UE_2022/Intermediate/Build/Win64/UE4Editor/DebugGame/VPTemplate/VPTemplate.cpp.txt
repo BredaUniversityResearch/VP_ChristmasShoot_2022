@@ -1,0 +1,2 @@
+C:\Projects\Virtual-Productions-Template\VPTemplate\Intermediate\Build\Win64\UE4Editor\DebugGame\VPTemplate\Definitions.VPTemplate.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Source\VPTemplate\VPTemplate.h

@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CradleLightControl.cpp.obj": [
+			"BaseLight.cpp.obj",
+			"CradleLightControl.cpp.obj",
+			"DirectLightRuntimeNetwork.cpp.obj",
+			"DMXConfigAsset.cpp.obj",
+			"DMXLight.cpp.obj",
+			"LightControlBPLib.cpp.obj",
+			"LightEditorNetwork.cpp.obj",
+			"LightRuntimeNetwork.cpp.obj",
+			"ToolData.cpp.obj",
+			"VirtualLight.cpp.obj"
+		],
+		"Module.CradleLightControl.gen.cpp.obj": [
+			"BaseLight.gen.cpp.obj",
+			"CradleLightControl.init.gen.cpp.obj",
+			"DMXConfigAsset.gen.cpp.obj",
+			"DMXLight.gen.cpp.obj",
+			"LightControlBPLib.gen.cpp.obj",
+			"LightControlLoadingResult.gen.cpp.obj",
+			"LightControlNetworkEnums.gen.cpp.obj",
+			"ToolData.gen.cpp.obj",
+			"VirtualLight.gen.cpp.obj"
+		]
+	}
+}

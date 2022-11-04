@@ -1,0 +1,32 @@
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\DebugGame\BlackmagicCameraControl\Definitions.BlackmagicCameraControl.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BlackmagicCineCameraSyncComponent.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCForegroundThreadCallbackHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCallbackHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDeviceHandle.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCLens.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandPayload.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCCommandPayload.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandIdentifier.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCFixed16.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCFixed16.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCLens.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVendorSpecific.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCVendorSpecific.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCVideo.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCVideo.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCCallbackHandler.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandHeader.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BlackmagicCineCameraSyncComponent.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BlackmagicCameraControl.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCService.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDataReceivedHandler.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCDispatcher.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCBattery_Info.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCBattery_Info.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCMedia_TransportMode.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCMedia_TransportMode.generated.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCDispatcher.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CinematicCamera\Public\CineCameraComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraComponent.generated.h

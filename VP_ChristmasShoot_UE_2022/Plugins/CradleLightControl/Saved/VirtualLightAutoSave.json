@@ -1,0 +1,79 @@
+{
+	"Lights": [
+		{
+			"Light":
+			{
+				"Name": "LightSource",
+				"Id": 0,
+				"Type": 3,
+				"State": true,
+				"Intensity": 0,
+				"Hue": 31.1806640625,
+				"Saturation": 0.46672362089157104,
+				"UseTemperature": false,
+				"Temperature": 11356.25,
+				"Horizontal": -179.99989318847656,
+				"Vertical": -36.001644134521484,
+				"RelatedLightName": "LightSource"
+			}
+		},
+		{
+			"Light":
+			{
+				"Name": "LightSource",
+				"Id": 0,
+				"Type": 3,
+				"State": true,
+				"Intensity": 0,
+				"Hue": 31.1806640625,
+				"Saturation": 0.46672362089157104,
+				"UseTemperature": false,
+				"Temperature": 11356.25,
+				"Horizontal": -179.99989318847656,
+				"Vertical": -36.001644134521484,
+				"RelatedLightName": "LightSource"
+			}
+		},
+		{
+			"Light":
+			{
+				"Name": "LightSource",
+				"Id": 0,
+				"Type": 3,
+				"State": true,
+				"Intensity": 0,
+				"Hue": 31.1806640625,
+				"Saturation": 0.46672362089157104,
+				"UseTemperature": false,
+				"Temperature": 11356.25,
+				"Horizontal": -179.99989318847656,
+				"Vertical": -36.001644134521484,
+				"RelatedLightName": "LightSource"
+			}
+		},
+		{
+			"Light":
+			{
+				"Name": "LightSource",
+				"Id": 0,
+				"Type": 3,
+				"State": true,
+				"Intensity": 0,
+				"Hue": 31.1806640625,
+				"Saturation": 0.46672362089157104,
+				"UseTemperature": false,
+				"Temperature": 11356.25,
+				"Horizontal": -179.99989318847656,
+				"Vertical": -36.001644134521484,
+				"RelatedLightName": "LightSource"
+			}
+		}
+	],
+	"Hierarchy Root Nodes": [
+		{
+			"Name": "LightSource",
+			"Note": "",
+			"Light Id": 0
+		}
+	]
+}

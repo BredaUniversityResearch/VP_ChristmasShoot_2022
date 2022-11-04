@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CradleLightControlEditor.cpp.obj": [
+			"DirectLightEditorNetwork.cpp.obj",
+			"DMXCOnfigAssetActions.cpp.obj",
+			"DMXConfigFactory.cpp.obj",
+			"DMXControlTool.cpp.obj",
+			"EditorData.cpp.obj",
+			"GelPaletteWidget.cpp.obj",
+			"ItemHandle.cpp.obj",
+			"LightControlDMX.cpp.obj",
+			"LightControlTool.cpp.obj",
+			"LightEditorWidget.cpp.obj",
+			"LightItemHeader.cpp.obj",
+			"LightPropertyEditor.cpp.obj",
+			"LightSpecificPropertyEditor.cpp.obj",
+			"LightTreeHierarchy.cpp.obj",
+			"TreeItemWidget.cpp.obj",
+			"CradleLightControlEditor.cpp.obj"
+		],
+		"Module.CradleLightControlEditor.gen.cpp.obj": [
+			"CradleLightControlEditor.gen.cpp.obj",
+			"CradleLightControlEditor.init.gen.cpp.obj",
+			"DMXConfigFactory.gen.cpp.obj",
+			"EditorData.gen.cpp.obj",
+			"ItemHandle.gen.cpp.obj"
+		]
+	}
+}

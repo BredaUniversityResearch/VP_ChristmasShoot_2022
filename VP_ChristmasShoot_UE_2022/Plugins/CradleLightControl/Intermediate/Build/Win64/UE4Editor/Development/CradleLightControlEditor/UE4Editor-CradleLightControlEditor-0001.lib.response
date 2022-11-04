@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CradleLightControlEditor-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\VPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Module.CradleLightControlEditor.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Module.CradleLightControlEditor.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\Default.rc2.res"
+/OUT:"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\Development\CradleLightControlEditor\UE4Editor-CradleLightControlEditor-0001.lib"

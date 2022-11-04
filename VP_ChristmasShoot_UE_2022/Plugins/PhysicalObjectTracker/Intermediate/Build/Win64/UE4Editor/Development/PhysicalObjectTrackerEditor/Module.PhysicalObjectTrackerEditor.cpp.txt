@@ -1,0 +1,61 @@
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Development\PhysicalObjectTrackerEditor\Definitions.PhysicalObjectTrackerEditor.h
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/DetectTrackerShakeTask.cpp
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\DetectTrackerShakeTask.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\TrackerTransformHistory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/RingBuffer.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Public\PhysicalObjectTrackerEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamVR\Intermediate\Build\Win64\UE4Editor\Inc\SteamVR\SteamVRFunctionLibrary.generated.h
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/GetTrackerStaticTransformTask.cpp
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\GetTrackerStaticTransformTask.h
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/PhysicalObjectTrackerEditor.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTracker.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingComponent.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Inc\PhysicalObjectTracker\PhysicalObjectTrackingComponent.generated.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingReferenceCalibrationHandler.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\UpdateTrackerCalibrationAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTrackerEditor\Private\PhysicalObjectTrackingComponentVisualizer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ComponentVisualizer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\UnrealEdGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IPackageAutoSaver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IDDCNotifications.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizerManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdEngine.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateIconFinder.h
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/PhysicalObjectTrackingComponentVisualizer.cpp
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Source\PhysicalObjectTracker\Public\PhysicalObjectTrackingReferencePoint.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\PhysicalObjectTracker\Intermediate\Build\Win64\UE4Editor\Inc\PhysicalObjectTracker\PhysicalObjectTrackingReferencePoint.generated.h
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/PhysicalObjectTrackingReferenceCalibrationHandler.cpp
+C:/Projects/VP_christmasshoot_2022/VP_ChristmasShoot_UE_2022/Plugins/PhysicalObjectTracker/Source/PhysicalObjectTrackerEditor/Private/UpdateTrackerCalibrationAsset.cpp

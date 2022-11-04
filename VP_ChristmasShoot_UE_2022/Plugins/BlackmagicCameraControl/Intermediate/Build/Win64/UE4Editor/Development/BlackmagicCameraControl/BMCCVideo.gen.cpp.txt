@@ -1,0 +1,10 @@
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\Definitions.BlackmagicCameraControl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl/Public/BMCCVideo.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandPayload.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCCommandPayload.generated.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCCommandIdentifier.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCFixed16.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCFixed16.generated.h
+C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCVideo.generated.h

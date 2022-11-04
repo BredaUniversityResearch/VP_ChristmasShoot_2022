@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PhysicalObjectTrackerEditor.cpp.obj": [
+			"DetectTrackerShakeTask.cpp.obj",
+			"GetTrackerStaticTransformTask.cpp.obj",
+			"PhysicalObjectTrackerEditor.cpp.obj",
+			"PhysicalObjectTrackingComponentVisualizer.cpp.obj",
+			"PhysicalObjectTrackingReferenceCalibrationHandler.cpp.obj",
+			"UpdateTrackerCalibrationAsset.cpp.obj"
+		]
+	}
+}

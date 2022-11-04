@@ -1,0 +1,94 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\VPTemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.Cpp17.h.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\AsyncWrapper.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BlackmagicCameraControl.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BlackmagicCineCameraSyncComponent.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BluetoothDeviceConnection.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BluetoothService.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCBlueprintSupport.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCCommandMeta.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCDispatcher.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCFixed16.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCForegroundThreadCallbackHandler.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCService.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BlackmagicCameraControl.init.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BlackmagicCineCameraSyncComponent.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCBattery_Info.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCBlueprintSupport.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCCallbackHandler.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCCommandPayload.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCDispatcher.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCFixed16.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCLens.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCMedia_TransportMode.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCVendorSpecific.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\BMCCVideo.gen.cpp.obj"
+"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CinematicCamera\UE4Editor-CinematicCamera.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"shlwapi.lib"
+"runtimeobject.lib"
+/OUT:"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Binaries\Win64\UE4Editor-BlackmagicCameraControl.dll"
+/IMPLIB:"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Development\BlackmagicCameraControl\UE4Editor-BlackmagicCameraControl.suppressed.lib"
+/PDB:"C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Plugins\BlackmagicCameraControl\Binaries\Win64\UE4Editor-BlackmagicCameraControl.pdb"
+/ignore:4078

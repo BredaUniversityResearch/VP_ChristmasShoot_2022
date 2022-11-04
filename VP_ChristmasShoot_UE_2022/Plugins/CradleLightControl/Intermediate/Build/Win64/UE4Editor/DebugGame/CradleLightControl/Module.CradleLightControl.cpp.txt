@@ -1,0 +1,8 @@
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\DebugGame\CradleLightControl\Definitions.CradleLightControl.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/CradleLightControl/Source/CradleLightControl/Private/CradleLightControl.cpp
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Source\CradleLightControl\Public\CradleLightControl.h
+C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Source\CradleLightControl\Private\LightControlWebSocketServer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\WebSocketNetworking\Source\WebSocketNetworking\Public\IWebSocketServer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\WebSocketNetworking\Source\WebSocketNetworking\Public\WebSocketNetworkingDelegates.h
+C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/CradleLightControl/Source/CradleLightControl/Private/LightControlWebSocketServer.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\WebSocketNetworking\Source\WebSocketNetworking\Public\IWebSocketNetworkingModule.h
