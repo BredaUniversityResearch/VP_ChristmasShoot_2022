@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.RemoteControlAutoExpose.cpp.obj": [
-			"RemoteControlAssetActionExtension.cpp.obj",
-			"RemoteControlAutoExposeModule.cpp.obj"
-		]
-	}
-}

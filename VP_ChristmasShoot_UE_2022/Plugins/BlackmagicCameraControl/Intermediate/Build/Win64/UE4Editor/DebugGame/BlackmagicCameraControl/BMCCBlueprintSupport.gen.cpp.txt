@@ -1,7 +1,0 @@
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\DebugGame\BlackmagicCameraControl\Definitions.BlackmagicCameraControl.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl/Public/BMCCBlueprintSupport.h
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Source\BlackmagicCameraControl\Public\BMCCFixed16.h
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCFixed16.generated.h
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\BlackmagicCameraControl\Intermediate\Build\Win64\UE4Editor\Inc\BlackmagicCameraControl\BMCCBlueprintSupport.generated.h

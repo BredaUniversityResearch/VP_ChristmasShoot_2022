@@ -1,2 +1,0 @@
-C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Intermediate\Build\Win64\UE4Editor\Development\VPTemplate\Definitions.VPTemplate.h
-C:\Projects\VP_christmasshoot_2022\VP_ChristmasShoot_UE_2022\Source\VPTemplate\VPTemplate.h

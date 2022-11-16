@@ -1,8 +1,0 @@
-{
-	"BuildId": "17155196",
-	"Modules": 
-	{
-		"CradleLightControl": "UE4Editor-CradleLightControl-Win64-DebugGame.dll",
-		"CradleLightControlEditor": "UE4Editor-CradleLightControlEditor-Win64-DebugGame.dll"
-	}
-}

@@ -1,6 +1,0 @@
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Intermediate\Build\Win64\UE4Editor\DebugGame\CradleLightControlEditor\Definitions.CradleLightControlEditor.h
-C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/CradleLightControl/Intermediate/Build/Win64/UE4Editor/Inc/CradleLightControlEditor/CradleLightControlEditor.gen.cpp
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Projects\Virtual-Productions-Template\VPTemplate\Plugins\CradleLightControl\Source\CradleLightControlEditor/Public/CradleLightControlEditor.h
-C:/Projects/Virtual-Productions-Template/VPTemplate/Plugins/CradleLightControl/Intermediate/Build/Win64/UE4Editor/Inc/CradleLightControlEditor/CradleLightControlEditor.init.gen.cpp
